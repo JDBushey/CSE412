@@ -1,0 +1,71 @@
+
+body {
+	width: 70%; 
+	margin: auto;
+}
+
+
+#navigation {
+  
+}
+
+p {
+  font-size: 120%;
+  color: dimgray;
+}
+
+#contents {
+	float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-family: sans-serif;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to white on hover */
+li a:hover {
+  background-color: #fff;
+}
+
+.sections {
+	text-align: left;
+	vertical-align: text-top;
+	display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
